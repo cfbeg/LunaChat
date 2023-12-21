@@ -107,9 +107,6 @@
         <version>2.12.4</version>
         <configuration>
           <junitArtifactName>junit:junit</junitArtifactName>
-          <encoding>UTF-8</encoding>
-          <inputEncoding>UTF-8</inputEncoding>
-          <outputEncoding>UTF-8</outputEncoding>
           <argLine>-Dfile.encoding=UTF-8</argLine>
         </configuration>
       </plugin>
@@ -135,7 +132,7 @@
     <repository>
       <id>onarandombox-repo</id>
       <name>Multiverse repository</name>
-      <url>http://repo.onarandombox.com/content/repositories/multiverse/</url>
+      <url>https://repo.onarandombox.com/content/repositories/multiverse/</url>
     </repository>
     <repository>
       <id>codemc-repo</id>
@@ -145,7 +142,7 @@
     <repository>
       <id>weaondara-repo</id>
       <name>wea_ondara's Repository</name>
-      <url>http://repo.wea-ondara.net/repository/public/</url>
+      <url>https://repo.wea-ondara.net/repository/public/</url>
     </repository>
     <repository>
       <id>md5-repo</id>
