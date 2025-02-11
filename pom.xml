@@ -154,6 +154,12 @@
       <name>sonatype repository</name>
       <url>https://oss.sonatype.org/content/repositories/snapshots/</url>
     </repository>
+    <repository>
+      <!-- Multiverse-Core -->
+      <id>GlareMasters-repo</id>
+      <name>GlareMasters Pub Repository</name>
+      <url>https://repo.glaremasters.me/repository/public/</url>
+    </repository>
   </repositories>
 
   <dependencies>
