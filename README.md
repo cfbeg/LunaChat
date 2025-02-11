@@ -1,7 +1,7 @@
 LunaChat
 ========
 
-Build Status : [![Build Status](https://travis-ci.org/ucchyocean/LunaChat.svg?branch=master)](https://travis-ci.org/ucchyocean/LunaChat)
+Build Status : [![Build Status](https://img.shields.io/github/actions/workflow/status/GiganticMinecraft/LunaChat/build.yaml)](https://travis-ci.org/ucchyocean/LunaChat)
 
 チャンネルチャットプラグイン<br />
 <br />
