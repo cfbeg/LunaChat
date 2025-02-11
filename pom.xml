@@ -4,7 +4,7 @@
   <artifactId>LunaChat</artifactId>
   <version>3.0.17</version>
   <description>A powerfull chat channel plugin with IME (Kana-Kanji conversion) support</description>
-  <url>https://github.com/ucchyocean/LunaChat</url>
+  <url>https://github.com/GiganticMinecraft/LunaChat</url>
 
   <licenses>
     <license>
@@ -16,8 +16,8 @@
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    <java.version>1.8</java.version>
-    <java.version.short>8</java.version.short>
+    <java.version>17</java.version>
+    <java.version.short>17</java.version.short>
   </properties>
 
   <distributionManagement>
@@ -67,7 +67,7 @@
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
         <artifactId>maven-shade-plugin</artifactId>
-        <version>3.2.1</version>
+        <version>3.3.0</version>
         <configuration>
           <createDependencyReducedPom>false</createDependencyReducedPom>
           <minimizeJar>true</minimizeJar>
